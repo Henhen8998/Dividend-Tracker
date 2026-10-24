@@ -1,0 +1,10 @@
+{
+  "Source": "SYNTHETIC-EXAMPLE-NOT-ACCOUNT-DATA",
+  "AccountSuffix": "0000",
+  "Complete": true,
+  "Status": "success",
+  "Transactions": [
+    {"TransactionID":"SYNTHETIC-P1","PaymentDate":"2026-10-15","Ticker":"TEST","GrossAmount":"2.50","Withholding":"0.50","NetAmount":"2.00","Currency":"USD","Status":"paid","EntryType":"dividend"},
+    {"TransactionID":"SYNTHETIC-P2","PaymentDate":"2026-10-15","Ticker":"TEST","NetAmount":"1.00","Currency":"USD","Status":"pending","EntryType":"distribution"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Source": "SYNTHETIC-EXAMPLE-NOT-ACCOUNT-DATA",
+  "AccountSuffix": "0000",
+  "SnapshotId": "SYNTHETIC-H1",
+  "RetrievedAt": "2026-10-20T15:00:00Z",
+  "Complete": true,
+  "Status": "success",
+  "Positions": [
+    {"BrokerageSymbol":"TEST","CanonicalSymbol":"TEST","Quantity":"1.123456789","InstrumentType":"stock","InstrumentVerified":true}
+  ]
+}
